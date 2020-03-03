@@ -9,7 +9,7 @@ When tested on windows the proportions set in the ui change and have to be adapt
 
 ___
 
-_My advice is to use a virtual environment_
+_Using a virtual environment_
 ```
 python3.6 -m venv venv
 . venv/bin/activate
