@@ -2,6 +2,6 @@ altgraph==0.16.1
 fbs==0.8.4
 macholib==1.11
 Pillow==9.0.1
-PyInstaller==3.6
+PyInstaller==5.13.1
 PyQt5==5.9.2
 sip==4.19.8
